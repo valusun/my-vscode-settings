@@ -1,15 +1,9 @@
 {
-    // ファイルの末尾に改行を挿入する
     "files.insertFinalNewline": true,
-    // フォルダを折りたたまず階層構造にする
     "explorer.compactFolders": false,
-    // 空白を表示する
     "editor.renderWhitespace": "boundary",
-    // エディタのデザイン設定
     "workbench.colorTheme": "Noctis Lilac",
-    // フォントの設定
     "editor.fontFamily": "'Cascadia Code light', 'Droid Sans Mono', 'monospace', monospace",
-    // フォントサイズ
     "terminal.integrated.fontSize": 16,
     "editor.fontSize": 16,
     "chat.editor.fontSize": 16
